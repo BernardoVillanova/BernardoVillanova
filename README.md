@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/bernardovillanova">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardovillanova&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardovillanova&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardosantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardosantana&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
   ### Algumas linguagens que estou a utilizar no momento:

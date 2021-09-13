@@ -1,4 +1,4 @@
-### Eai beleza? 
+### Eai beleza? Eu sou o Bernardo, bem vindo ao meu perfil 😉✌
   
 
 <div>

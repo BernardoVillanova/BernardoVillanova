@@ -7,7 +7,7 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardovillanova&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
-  ### Algumas linguagens que estou a utilizar:
+  ### Algumas linguagens que estou a utilizar no momento:
   
   ##
   

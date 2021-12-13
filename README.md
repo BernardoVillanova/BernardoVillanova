@@ -1,4 +1,4 @@
-### Eai beleza? Eu sou o Bernardo, bem vindo ao meu perfil e estou bricando um pouco com JS 😉✌
+### Eai beleza? Eu sou o Bernardo, bem vindo ao meu perfil, estou bricando um pouco com JS e focado em Java😉✌
   
 
 <div>

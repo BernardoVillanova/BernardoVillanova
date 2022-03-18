@@ -2,7 +2,7 @@
 #### - Atualmente estou atuando como Dev FullStack Jr; 👨‍💻🚀
 #### - Sou apaixonado por tecnologia; 😍❤
 #### - To focado em Java POO e começando a estudar Python; 🤓💻
-#### - Estou usando DevOps e Cloud;
+#### - Estou trabalhando DevOps e Cloud;
   
   ### Algumas linguagens que estou a utilizar no momento:
   

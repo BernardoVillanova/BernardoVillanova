@@ -4,7 +4,12 @@
 #### - To focado em Java POO e começando a estudar Python; 🤓💻
 #### - Estou trabalhando DevOps e Cloud;
   
-  ### Algumas linguagens que estou a utilizar no momento:
+  ### Algumas tecnologias que estou a utilizar no momento:
+#### - Back-end: Java e Python;
+#### - Front-end: React, HTML, CSS e JavaScript;
+#### - Database: MySQL;
+#### - Framework: SpringBoot, Bootstrap e JQuery;
+#### - DevOps: AWS, AzureDevOps, Docker, Kubernetes e Git;
   
   ##
   

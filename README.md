@@ -1,8 +1,8 @@
 # Eai beleza? Eu sou o Bernardo, bem vindo ao meu perfil! ✌😉
 #### - Atualmente estou atuando como Dev FullStack Jr; 👨‍💻🚀
 #### - Sou apaixonado por tecnologia; 😍❤
-#### - To focado em Java POO e começando a estudar Python; 🤓💻
-#### - Estou trabalhando DevOps e Cloud;
+#### - Estou focado em Java POO e começando a estudar Python; 🤓💻
+#### - Estou trabalhando com DevOps e Cloud;
   
   ## Algumas tecnologias que estou a utilizar no momento:
 #### - Back-end: Java e Python;

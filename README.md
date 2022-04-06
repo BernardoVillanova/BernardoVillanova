@@ -7,9 +7,10 @@
   ## Algumas tecnologias que estou a utilizar no momento:
 #### - Back-end: Java e Python;
 #### - Front-end: React, HTML, CSS e JavaScript;
-#### - Database: MySQL;
+#### - Database: MySQL e PostSQL;
 #### - Framework: SpringBoot, Bootstrap e JQuery;
-#### - DevOps: AWS, AzureDevOps, Docker, Kubernetes e Git;
+#### - DevOps: AWS, AzureDevOps, Docker, Kubernetes, Git e Jenkins;
+#### - Demais Tecnologias: Apache-Airflow;
   
   ##
   

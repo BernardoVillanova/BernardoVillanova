@@ -10,7 +10,7 @@
 #### - Database: MySQL e PostSQL;
 #### - Framework: SpringBoot, Bootstrap e JQuery;
 #### - DevOps: AWS, AzureDevOps, Docker, Kubernetes, Git e Jenkins;
-#### - Demais Tecnologias: Apache-Airflow;
+#### - Demais Tecnologias: Apache-Airflow, Camunda;
   
   ##
   

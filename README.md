@@ -4,14 +4,13 @@
 - Estou focado em Java POO e começando a estudar Python;
 - Estou trabalhando com DevOps e Cloud;
   
-  ## Algumas tecnologias que estou a utilizar no momento:
-- Back-end: Java e Python;
-- Front-end: React, HTML, CSS e JavaScript;
-- Database: MySQL e PostSQL;
-- Framework: SpringBoot, Bootstrap e JQuery;
-- DevOps: AWS, AzureDevOps, Docker, Kubernetes, Git e Jenkins;
-- Demais Tecnologias: Apache-Airflow, Camunda;
+ 
   
+  <div align="center">
+  <a href="https://github.com/bernardovillanova">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   ##
   
 <div>

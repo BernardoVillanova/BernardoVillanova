@@ -25,6 +25,7 @@
   <img height="30em" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img height="30em" src="https://img.shields.io/badge/Docker-1DA1F2?style=for-the-badge&logo=docker&logoColor=white"/>
   
   
 </div>

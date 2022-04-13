@@ -1,16 +1,16 @@
 # Eai beleza? Eu sou o Bernardo, bem vindo ao meu perfil! ✌😉
-#### - Atualmente estou atuando como Dev FullStack Jr; 👨‍💻🚀
-#### - Sou apaixonado por tecnologia; 😍❤
-#### - Estou focado em Java POO e começando a estudar Python;
-#### - Estou trabalhando com DevOps e Cloud;
+- Atualmente estou atuando como Dev FullStack Jr; 👨‍💻🚀
+- Sou apaixonado por tecnologia; 😍❤
+- Estou focado em Java POO e começando a estudar Python;
+- Estou trabalhando com DevOps e Cloud;
   
   ## Algumas tecnologias que estou a utilizar no momento:
-#### - Back-end: Java e Python;
-#### - Front-end: React, HTML, CSS e JavaScript;
-#### - Database: MySQL e PostSQL;
-#### - Framework: SpringBoot, Bootstrap e JQuery;
-#### - DevOps: AWS, AzureDevOps, Docker, Kubernetes, Git e Jenkins;
-#### - Demais Tecnologias: Apache-Airflow, Camunda;
+- Back-end: Java e Python;
+- Front-end: React, HTML, CSS e JavaScript;
+- Database: MySQL e PostSQL;
+- Framework: SpringBoot, Bootstrap e JQuery;
+- DevOps: AWS, AzureDevOps, Docker, Kubernetes, Git e Jenkins;
+- Demais Tecnologias: Apache-Airflow, Camunda;
   
   ##
   

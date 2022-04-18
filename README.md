@@ -1,7 +1,7 @@
 # Eai beleza? Eu sou o Bernardo, bem vindo ao meu perfil! ✌😉
 - Atualmente estou atuando como Dev FullStack Jr; 👨‍💻🚀
 - Sou apaixonado por tecnologia; 😍❤
-- Estou focado em Python; 💻
+- Estou focado em Python; 
 - Estou trabalhando na FL Software;
   
  

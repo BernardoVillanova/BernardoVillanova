@@ -3,14 +3,7 @@
 - Sou apaixonado por tecnologia; 😍❤
 - Estou focado em Python; 💻
 - Estou trabalhando na FL Software;
-  
- 
- /* 
-  <div align="center">
-  <a href="https://github.com/bernardovillanova">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardovillanova&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
- */
+
   
   ##
   

@@ -3,6 +3,7 @@
 - Sou apaixonado por tecnologia; 😍❤
 - Estou focado em Python; 💻
 - Estou trabalhando na FL Software;
+- HANDS-ON
 
   
   ##

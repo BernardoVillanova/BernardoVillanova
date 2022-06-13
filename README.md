@@ -1,6 +1,7 @@
 <div align="center">
   ![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
 </div>
+
   ##
   
 ## Sup? I'm Bernardo, welcome to my profile! ✌😉

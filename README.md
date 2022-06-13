@@ -1,5 +1,4 @@
 # Sup? I'm Bernardo, welcome to my profile! ✌😉
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BernardoVillanova&color=yellow" alt="Profile views" /> </p>
 - I'm currently working as a Dev Full Stack Jr; 👨‍💻🚀
 - I'm passionate about technology; 😍❤
 - I'm working at FL Software;

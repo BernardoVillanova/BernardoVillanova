@@ -1,9 +1,3 @@
-<div align="center">
-  ## H3LL0 W0RLD
-  ##
-  ![]([https://github.com/Your_Repository_Name](https://github.com/BernardoVillanova/BernardoVillanova.git)/[Your_GIF_Name.gif](https://c.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif))
-</div>
-##
 # Sup? I'm Bernardo, welcome to my profile! ✌😉
 - I'm currently working as a Dev Full Stack Jr; 👨‍💻🚀
 - I'm passionate about technology; 😍❤

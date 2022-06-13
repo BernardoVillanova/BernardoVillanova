@@ -1,5 +1,5 @@
 <div align="center">
-  ![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
+  
 </div>
 
   ##

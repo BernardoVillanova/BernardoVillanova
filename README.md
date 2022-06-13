@@ -1,4 +1,4 @@
-# Sup, i'm Bernardo, welcome to my profile! ✌😉
+# Sup? I'm Bernardo, welcome to my profile! ✌😉
 - I'm currently working as a Dev Full Stack Jr; 👨‍💻🚀
 - I'm passionate about technology; 😍❤
 - I'm working at FL Software;

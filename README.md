@@ -1,5 +1,5 @@
 <div align="center">
-  ![](https://c.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif)
+  ![Alt Text](https://c.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif)
 </div>
 
   ##

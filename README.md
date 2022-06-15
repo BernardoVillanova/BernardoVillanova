@@ -1,3 +1,7 @@
+<div align="center">   <img src="https://c.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif" /> </div>
+
+  ##
+
 ## Sup? I'm Bernardo, welcome to my profile! ✌😉
 - I'm currently working as a Dev Full Stack Jr; 👨‍💻🚀
 - I'm passionate about technology; 😍❤

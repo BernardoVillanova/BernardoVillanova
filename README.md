@@ -1,9 +1,9 @@
 ## Sup? I'm Bernardo, welcome to my profile! ✌😉
-- I'm currently working as a Dev Full Stack Jr; 👨‍💻🚀
-- I'm passionate about technology; 😍❤
-- I'm working at FL Software;
-- HANDS-ON!
+<div align="center">   <img src="https://c.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif" /> </div>
 
+I'm currently working as a Dev Full Stack Jr; 👨‍💻🚀
+Learning all about Devops; 🤖👾
+I'm passionate about technology; 😍❤
   
   ##
   
@@ -25,8 +25,6 @@
 </div>
  
   ##
-  
- <div align="center">   <img src="https://c.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif" /> </div>
    
  <a href="https://www.linkedin.com/in/bernardo-villanova-de-santana/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>

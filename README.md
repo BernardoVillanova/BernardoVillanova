@@ -1,7 +1,7 @@
 ## Sup? I'm Bernardo, welcome to my profile! ✌😉
 <div align="center">   <img src="https://c.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif" /> </div>
 
-<div align='center'> 🤙🏽 Bern | 👨🏽‍💻 DevOps |  🌎 Brazil</div>
+<div align='center'> <h2>🤙🏽 Bern | 👨🏽‍💻 DevOps |  🌎 Brazil</h2></div>
 
 - I'm currently working as a Dev Full Stack Jr; 👨‍💻🚀
 - Learning all about Devops; 🤖👾

@@ -2,6 +2,7 @@
 <div align="center">   <img src="https://c.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif" /> </div>
 
 <div align='center'> 🤙🏽 Bern | 👨🏽‍💻 DevOps |  🌎 Brazil</div>
+
 - I'm currently working as a Dev Full Stack Jr; 👨‍💻🚀
 - Learning all about Devops; 🤖👾
 - I'm passionate about technology; 😍❤

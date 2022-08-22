@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://gifer.com/en/gifs/dark-souls"/> </div>
+<div align="center"> <img src="https://i.gifer.com/CKjl.gif"/> </div>
 ## Sup? I'm Bernardo, welcome to my profile! ✌😉
 <div align="center">   <img src="https://c.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif" /> </div>
 

@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://classroom.google.com/u/4/h?pli=1"/> </div>
+<div align="center"> <img src="https://gifer.com/en/gifs/dark-souls"/> </div>
 ## Sup? I'm Bernardo, welcome to my profile! ✌😉
 <div align="center">   <img src="https://c.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif" /> </div>
 

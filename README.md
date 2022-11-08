@@ -3,7 +3,7 @@
 
 <div align='center'> <h4>🤙🏽 Bern | 👨🏽‍💻 DevOps |  🌎 Brazil</h4></div>
 
-- I'm currently working as a Dev Full Stack Jr; 👨‍💻🚀
+- I'm currently working as a DevOps Jr at EZOps.cloud; 👨‍💻🚀
 - Learning all about Devops; 🤖👾
 - I'm passionate about technology; 😍❤
   

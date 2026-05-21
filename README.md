@@ -3,7 +3,7 @@
 
 <div align='center'> <h4>🤙🏽 Bern | 👨🏽‍💻 DevOps |  🌎 Brazil</h4></div>
 
-- I'm a DevOps Jr; 👨‍💻🚀
+- I'm a DevOps; 👨‍💻🚀
 - Learning all about Devops; 🤖👾
 - I'm passionate about technology; 😍❤
   

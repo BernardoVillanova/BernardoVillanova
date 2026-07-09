@@ -1,10 +1,6 @@
 ## Sup? I'm Bernardo, welcome to my profile!
 <div align="center">   <img src="https://c.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif" /> </div>
 
-<div align='center'> <h4>🤙🏽 Bern | 👨🏽‍💻 DevOps |  🌎 Brazil</h4></div>
-
-  ##
-
 ```javascript
 const bernardo = {
   role: "DevOps Engineer | Full Stack Developer",

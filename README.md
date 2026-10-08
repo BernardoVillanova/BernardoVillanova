@@ -5,7 +5,7 @@ const bernardo = {
   role: "DevOps Engineer | Full Stack Developer",
   location: "São Paulo, Brazil",
   code: ["JavaScript", "TypeScript", "Node.js", "React", "Next.js", "Vue.js", "GraphQL", "SQL"],
-  tools: ["AWS", "Terraform", "Docker", "Kubernetes", "Jenkins", "GitHub Actions", "PostgreSQL", "MongoDB", "Grafana"],
+  tools: ["AWS", "Terraform", "Docker", "Kubernetes", "CI/CD", "GitHub Actions", "PostgreSQL", "MongoDB", "Grafana"],
   focus: [
     "cloud infrastructure (AWS)",
     "infrastructure as code",
@@ -15,6 +15,6 @@ const bernardo = {
     "platform engineering",
     "MLOps exploration"
   ],
-  currently: "Managing AWS environments and driving DevOps culture at Yeb Inteligência de Mercado"
+  currently: "Managing Kubernetes environments and driving DevOps culture at Casa do Construtor"
 }
 ```
